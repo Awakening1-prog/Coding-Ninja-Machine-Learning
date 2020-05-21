@@ -1,2 +1,2 @@
 # Coding-Ninja-Machine-Learning
-Coding-Ninja-Machine-Learning Lecture 8
+Coding-Ninjas-Machine-Learning Lecture 8
